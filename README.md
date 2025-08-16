@@ -8,7 +8,7 @@
 - Also interested in Backend technologies
 
 
-# Here's my stack and tools I use
+# Here's my stack and tools
 <div align="center">
     <div align="center">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -53,10 +53,12 @@
 </div>
 
 
-# I recently decided to track my knowledge. Here is my Obsidian vault:
-<a href="https://github.com/mickewasowski/obsidian-vault" target="_blank" rel="noreferrer">
+# Knowledge
+> [!note] Recently I decided to start tracking what I learn/know. 
+> My Obsidian vault contains a small part of what's in my head: 
+ <a href="https://github.com/mickewasowski/obsidian-vault" target="_blank" rel="noreferrer">
     <img src="https://imgs.search.brave.com/rPOK_X9Vqt6LpvaT8Q9wsJvCJiDFkPI6GbAB8TLAADE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vYnNp/ZGlhbi5tZC9pbWFn/ZXMvb2JzaWRpYW4t/bG9nby1ncmFkaWVu/dC5zdmc" alt="Obsidian logo" width="40" height="40" />
-</a>
+ </a>
 
 
 # Here is some of my learning on Roadmap.sh
