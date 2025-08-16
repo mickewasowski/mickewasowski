@@ -1,1 +1,63 @@
-[![roadmap.sh](https://roadmap.sh/card/tall/678a0e1e98c00f7117b7a119?variant=dark&roadmaps=javascript%2Clinux%2Cgit-github%2Csql)](https://roadmap.sh)
+<h1 align="center">Hi, I'm Ross 👋</h1>
+
+> I like learning :mortar_board: and coding :computer:
+
+
+# About me
+- Not your typical Frontend Developer
+- Also interested in Backend technologies
+
+
+# Here's my stack and tools I use
+<div align="center">
+    <div align="center">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/>
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=css" height="40" width="40" alt="CSS3 logo"  />
+        </a>
+        <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="40"/>
+        </a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+        </a>
+    </div>
+    <div align="center">
+        <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="40" height="40"/>
+        </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+        </a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
+        </a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=linux" alt="github" width="40" height="40"/>
+        </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
+        </a>
+        <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+            <img src="https://imgs.search.brave.com/GSWml-jJQhhKIxnfFqbfJ-ZZy40pbxd93LnrVzM5X7s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zeW1i/b2xzLmdldHZlY3Rh/LmNvbS9zdGVuY2ls/XzI3Lzc5X3NxbC1k/YXRhYmFzZS1nZW5l/cmljLjQ5NGZmNjMy/MGUuc3Zn" alt="sql" width="40" height="40"/>
+        </a>
+    </div>
+</div>
+
+
+# I recently decided to track my knowledge. Here is my Obsidian vault:
+<a href="https://github.com/mickewasowski/obsidian-vault" target="_blank" rel="noreferrer">
+    <img src="https://imgs.search.brave.com/rPOK_X9Vqt6LpvaT8Q9wsJvCJiDFkPI6GbAB8TLAADE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vYnNp/ZGlhbi5tZC9pbWFn/ZXMvb2JzaWRpYW4t/bG9nby1ncmFkaWVu/dC5zdmc" alt="Obsidian logo" width="40" height="40" />
+</a>
+
+
+# Here is some of my learning on Roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/wide/678a0e1e98c00f7117b7a119?variant=dark&roadmaps=javascript%2Clinux%2Cgit-github%2Csql)](https://roadmap.sh)
