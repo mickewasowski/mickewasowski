@@ -3,11 +3,6 @@
 ### I like learning :mortar_board: and coding :computer:
 
 
-# About me
-- Not your typical Frontend Developer
-- Also interested in Backend technologies
-
-
 # Here's my stack and tools
 <div align="center">
     <div align="center">
