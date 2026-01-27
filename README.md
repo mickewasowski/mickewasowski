@@ -88,7 +88,4 @@ My Obsidian vault contains a small part of what's in my head:
     <img src="https://imgs.search.brave.com/rPOK_X9Vqt6LpvaT8Q9wsJvCJiDFkPI6GbAB8TLAADE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vYnNp/ZGlhbi5tZC9pbWFn/ZXMvb2JzaWRpYW4t/bG9nby1ncmFkaWVu/dC5zdmc" alt="Obsidian logo" width="40" height="40" />
  </a>
 </div>
-
-
-# Here is some of my learning on Roadmap.sh
-[![roadmap.sh](https://roadmap.sh/card/wide/678a0e1e98c00f7117b7a119?variant=dark&roadmaps=javascript%2Clinux%2Cgit-github%2Csql)](https://roadmap.sh)
+(https://roadmap.sh)
