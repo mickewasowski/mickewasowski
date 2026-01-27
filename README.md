@@ -88,4 +88,3 @@ My Obsidian vault contains a small part of what's in my head:
     <img src="https://imgs.search.brave.com/rPOK_X9Vqt6LpvaT8Q9wsJvCJiDFkPI6GbAB8TLAADE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vYnNp/ZGlhbi5tZC9pbWFn/ZXMvb2JzaWRpYW4t/bG9nby1ncmFkaWVu/dC5zdmc" alt="Obsidian logo" width="40" height="40" />
  </a>
 </div>
-(https://roadmap.sh)
